@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/docker/go-units"
-	"github.com/go-debos/fakemachine"
+	"github.com/davidmhewitt/fakemachine"
 	"github.com/jessevdk/go-flags"
 	"os"
 	"strings"
